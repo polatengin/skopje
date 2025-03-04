@@ -24,3 +24,10 @@ or
 gs
 ```
 
+### Navigation
+
+- Use the `↑` (Up arrow) key to view the previous repository.
+- Use the `↓` (Down arrow) key to view the next repository.
+- Press `o` to open the repository in your default web browser.
+- Press `q` to quit the script.
+
