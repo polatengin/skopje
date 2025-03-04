@@ -31,3 +31,10 @@ gs
 - Press `o` to open the repository in your default web browser.
 - Press `q` to quit the script.
 
+### Example
+
+```bash
+git-scroll
+```
+
+This will fetch the top 100 repositories sorted by stars and allow you to browse through them interactively.
